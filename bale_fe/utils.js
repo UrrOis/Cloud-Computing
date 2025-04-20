@@ -1,1 +1,1 @@
-const BASE_URL = "http://localhost:5001";
+const BASE_URL = "https://notes-be34-245069416476.us-central1.run.app/";
